@@ -1,0 +1,10 @@
+* f835321 Initial commit
+
+On branch main
+nothing to commit, working tree clean
+
+
+Самостоятельное задание выполнено
+Автор: Алина Мохна
+Дата: 18 декабря 2025
+Ссылка на второй репозиторий: https://github.com/a-mokhna/git-lab2-second
